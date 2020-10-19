@@ -1,0 +1,4 @@
+[submodule "mangatmodi.com/public."]
+	path = mangatmodi.com/public.
+	url = https://github.com/mangatmodi/mangatmodi.github.io.git
+	branch = master

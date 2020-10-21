@@ -1,142 +1,37 @@
 ---
-title: "My First Post"
-date: 2020-10-21T02:24:57+02:00
+title: "Why I stopped writing on Medium"
+date: 2020-10-21T23:24:57+02:00
 draft: false
+tags:
+ - rant
 ---
 
-![Logo of the project](https://raw.githubusercontent.com/jehna/readme-best-practices/master/sample-logo.png)
+![](https://live.staticflickr.com/5/4837657_e0fadf2495_b.jpg)
 
-# Name of the project
-> Additional information or tagline
+I have been writing on [Medium](https://medium.com/@mangatmodi) until now, which has been a great experience for me. I really appreciate the simplcity and quality of the platform. Also the posts are SEO optimised. Without me trying to spread my posts I still got some handsome traffic from Google. Infact one of my blog is also a top search result. But I wish things were that simple. I found Medium paywall system highly intrusive. I fully support Ad-free web where people should be able to pay some meager money to access the content they like but for Medium it makes less sense
 
-A brief description of your project, what it is used for and how does life get
-awesome when someone starts to use it.
+1. Content on Medium is intellectual property of the author, as per Medium's own policy. So adding a 5$ paywall just for a text hosting seems quite pricy.
 
-## Installing / Getting started
+2. Medium gives only 3 free articles which in my opinion is way less that it should be. It doesn't take the article length into the account. In my experience the length per article goes around 6 minutes. That means only 18 minutes of reading for non paying users.
 
-A quick introduction of the minimal setup you need to get a hello world up &
-running.
+3. I believe in free-knowledge web more than in ad-free web. It would be shame if people can't read my blog because they can't afford the subscription.
 
-```shell
-packagemanager install awesome-project
-awesome-project start
-awesome-project "Do something!"  # prints "Nah."
-```
+4. Medium's paywall is not really well tuned. Accidental clicks could be registered as read. Which further reduces the number of free articles available.
 
-Here you should say what actually happens when you execute the code above.
+5. Your content and the readers locked inside this private wallgarden. Despite you having copyright the content, Its Medium who owns the right to publication. [Medium's policy](https://policy.medium.com/medium-rules-30e5502c4eb4) clearly state that they can [suspend](https://news.ycombinator.com/item?id=19935609) the account without any notice, if you don't stick to their policy. 
 
-### Initial Configuration
+Overall I see an [increase](https://florimond.dev/blog/articles/2019/05/why-i-dont-write-on-medium/) in this [sentiment](https://news.ycombinator.com/item?id=18440756). I dont write to make living, but people who do, have [bigger problems](https://fortelabs.co/blog/why-im-leaving-medium/) with the platform.
 
-Some projects require initial configuration (e.g. access tokens or keys, `npm i`).
-This is the section where you would document those requirements.
+#### What's Next?
 
-## Developing
+I will from now write on my own hosted [domain](https://www.mangatmodi.com/). I will also import my blogs to Medium for some period. I believe Medium had a nice run. They have a good product which was apprecieated and adopted. They got many people including me into writing.
 
-Here's a brief intro about what a developer must do in order to start developing
-the project further:
+However currently we have many great opensource tools and ecosystem which can provide high quality of styling and editor, which you can host for free. I will write soon about how I setup my new blog .
 
-```shell
-git clone https://github.com/your/awesome-project.git
-cd awesome-project/
-packagemanager install
-```
+------
 
-And state what happens step-by-step.
+   
 
-### Building
-
-If your project needs some additional steps for the developer to build the
-project after some code changes, state them here:
-
-```shell
-./configure
-make
-make install
-```
-
-Here again you should state what actually happens when the code above gets
-executed.
-
-### Deploying / Publishing
-
-In case there's some step you have to take that publishes this project to a
-server, this is the right time to state it.
-
-```shell
-packagemanager deploy awesome-project -s server.com -u username -p password
-```
-
-And again you'd need to tell what the previous code actually does.
-
-## Features
-
-What's all the bells and whistles this project can perform?
-* What's the main functionality
-* You can also do another thing
-* If you get really randy, you can even do this
-
-## Configuration
-
-Here you should write what are all of the configurations a user can enter when
-using the project.
-
-#### Argument 1
-Type: `String`  
-Default: `'default value'`
-
-State what an argument does and how you can use it. If needed, you can provide
-an example below.
-
-Example:
-```bash
-awesome-project "Some other value"  # Prints "You're nailing this readme!"
-```
-
-#### Argument 2
-Type: `Number|Boolean`  
-Default: 100
-
-Copy-paste as many of these as you need.
-
-## Contributing
-
-When you publish something open source, one of the greatest motivations is that
-anyone can just jump in and start contributing to your project.
-
-These paragraphs are meant to welcome those kind souls to feel that they are
-needed. You should state something like:
-
-"If you'd like to contribute, please fork the repository and use a feature
-branch. Pull requests are warmly welcome."
-
-If there's anything else the developer needs to know (e.g. the code style
-guide), you should link it here. If there's a lot of things to take into
-consideration, it is common to separate this section to its own file called
-`CONTRIBUTING.md` (or similar). If so, you should say that it exists here.
-
-## Links
-
-Even though this information can be found inside the project on machine-readable
-format like in a .json file, it's good to include a summary of most useful
-links to humans using your project. You can include links like:
-
-- Project homepage: https://your.github.com/awesome-project/
-- Repository: https://github.com/your/awesome-project/
-- Issue tracker: https://github.com/your/awesome-project/issues
-  - In case of sensitive bugs like security vulnerabilities, please contact
-    my@email.com directly instead of using issue tracker. We value your effort
-    to improve the security and privacy of this project!
-- Related projects:
-  - Your other project: https://github.com/your/other-project/
-  - Someone else's project: https://github.com/someones/awesome-project/
-
-
-## Licensing
-
-One really important part: Give your project a proper license. Here you should
-state what the license is and how to find the text version of the license.
-Something like:
-
-"The code in this project is licensed under MIT license."
-
+###### References:
+###### [cover image]: And What shall I Write" by tomswift46 ( Hi Res Images for Sale) is licensed under CC BY-NC-ND 2.0
 

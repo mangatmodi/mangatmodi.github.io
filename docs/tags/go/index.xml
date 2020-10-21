@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>go on Mangat Rai Modi</title>
+    <link>https://www.mangatmodi.com/tags/go/</link>
+    <description>Recent content in go on Mangat Rai Modi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 21 Oct 2020 09:43:25 +0200</lastBuildDate><atom:link href="https://www.mangatmodi.com/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go:Check Nil Interface the Right Way</title>
+      <link>https://www.mangatmodi.com/posts/go-check-nil-interface-the-right-way/</link>
+      <pubDate>Wed, 21 Oct 2020 09:43:25 +0200</pubDate>
+      
+      <guid>https://www.mangatmodi.com/posts/go-check-nil-interface-the-right-way/</guid>
+      <description>I had a simple problem. I have a function which takes a parameter of type interface{}. I need to check it for nil. Any seasoned Go developer will know that a simple i==nil check will not work because interfaces in Go contains both type and value. So you can have cases when —
+ Type is null-able(like map, pointer etc) and value is nil Type itself is nil (of course value will be nil)  A nil will only work with option 2 above, as for option 1 a variable still have some type.</description>
+    </item>
+    
+  </channel>
+</rss>

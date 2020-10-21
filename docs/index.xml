@@ -5,17 +5,33 @@
     <link>https://www.mangatmodi.com/</link>
     <description>Recent content on Mangat Rai Modi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 21 Oct 2020 02:24:57 +0200</lastBuildDate><atom:link href="https://www.mangatmodi.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Oct 2020 23:24:57 +0200</lastBuildDate><atom:link href="https://www.mangatmodi.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
+      <title>Why I stopped writing on Medium</title>
       <link>https://www.mangatmodi.com/posts/my-first-post/</link>
-      <pubDate>Wed, 21 Oct 2020 02:24:57 +0200</pubDate>
+      <pubDate>Wed, 21 Oct 2020 23:24:57 +0200</pubDate>
       
       <guid>https://www.mangatmodi.com/posts/my-first-post/</guid>
-      <description>Name of the project  Additional information or tagline
- A brief description of your project, what it is used for and how does life get awesome when someone starts to use it.
-Installing / Getting started A quick introduction of the minimal setup you need to get a hello world up &amp;amp; running.
-packagemanager install awesome-project awesome-project start awesome-project &amp;#34;Do something!&amp;#34; # prints &amp;#34;Nah.&amp;#34; Here you should say what actually happens when you execute the code above.</description>
+      <description>I have been writing on Medium until now, which has been a great experience for me. I really appreciate the simplcity and quality of the platform. Also the posts are SEO optimised. Without me trying to spread my posts I still got some handsome traffic from Google. Infact one of my blog is also a top search result. But I wish things were that simple. I found Medium paywall system highly intrusive.</description>
+    </item>
+    
+    <item>
+      <title>Go:Check Nil Interface the Right Way</title>
+      <link>https://www.mangatmodi.com/posts/go-check-nil-interface-the-right-way/</link>
+      <pubDate>Wed, 21 Oct 2020 09:43:25 +0200</pubDate>
+      
+      <guid>https://www.mangatmodi.com/posts/go-check-nil-interface-the-right-way/</guid>
+      <description>I had a simple problem. I have a function which takes a parameter of type interface{}. I need to check it for nil. Any seasoned Go developer will know that a simple i==nil check will not work because interfaces in Go contains both type and value. So you can have cases when —
+ Type is null-able(like map, pointer etc) and value is nil Type itself is nil (of course value will be nil)  A nil will only work with option 2 above, as for option 1 a variable still have some type.</description>
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>https://www.mangatmodi.com/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mangatmodi.com/archives/</guid>
+      <description>archives</description>
     </item>
     
   </channel>

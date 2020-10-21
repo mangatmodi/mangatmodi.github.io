@@ -16,8 +16,8 @@ minifyOutput = true
 [params]
 env = "production"
 title = "Mangat Rai Modi"
-description = "Contains About me, and my blog posts"
-author = "Me"
+description = "Space for my blog on technology/or not-technology things"
+author = "Mangat rai Modi"
 images = "<link or path of image for opengraph, twitter-cards>"
 ShowReadingTime = true
 ShowShareButtons = true
@@ -46,7 +46,7 @@ disableSpecial1stPost = false
 
   [params.homeInfoParams]
   Title = "Hi there 👋"
-  Content = "This is Mangat Rai Modi. You will find here some blog posts."
+  Content = "This is Mangat Rai Modi. You will find my notes (mostly rants) on various technology topics. My interests are around Highly scalable architecture, Concurrency and Distributed systems. I am also fond of classical rock music and various forms of fitness training."
 
   [[params.socialIcons]]
   name = "twitter"

@@ -33,7 +33,7 @@ disableSpecial1stPost = false
   text = "Home"
 
   [params.profileMode]
-  enabled = true
+  enabled = false
   title = "Mangat Rai Modi"
 
     [[params.profileMode.buttons]]
@@ -64,11 +64,20 @@ disableSpecial1stPost = false
   name = "linkedin"
   url = "https://www.linkedin.com/in/mangat-rai-12a1b122/"
 
-
   [[params.socialIcons]]
   name = "email"
   url = "mailto:mangatmodi@gmail.com"
 
 [params.analytics.google]
 SiteVerificationTag = "XYZabc"
+
+[[menu.main]]
+name = "Archives"
+url = "/archives/"
+weight = 5
+
+[[menu.main]]
+name = "Tags"
+url = "/tags/"
+weight = 10
 

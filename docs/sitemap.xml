@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.mangatmodi.com/categories/</loc>
+    <loc>https://www.mangatmodi.com/</loc>
+    <lastmod>2020-10-21T02:24:57+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.mangatmodi.com/</loc>
+    <loc>https://www.mangatmodi.com/posts/my-first-post/</loc>
+    <lastmod>2020-10-21T02:24:57+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mangatmodi.com/posts/</loc>
+    <lastmod>2020-10-21T02:24:57+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mangatmodi.com/categories/</loc>
   </url>
   
   <url>

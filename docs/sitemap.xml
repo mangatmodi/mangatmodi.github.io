@@ -5,44 +5,62 @@
   <url>
     <loc>https://www.mangatmodi.com/</loc>
     <lastmod>2020-10-21T23:24:57+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.mangatmodi.com/posts/</loc>
     <lastmod>2020-10-21T23:24:57+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.mangatmodi.com/tags/rant/</loc>
     <lastmod>2020-10-21T23:24:57+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.mangatmodi.com/tags/</loc>
     <lastmod>2020-10-21T23:24:57+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.mangatmodi.com/posts/my-first-post/</loc>
     <lastmod>2020-10-21T23:24:57+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.mangatmodi.com/tags/go/</loc>
     <lastmod>2020-10-21T09:43:25+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.mangatmodi.com/posts/go-check-nil-interface-the-right-way/</loc>
     <lastmod>2020-10-21T09:43:25+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.mangatmodi.com/archives/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.mangatmodi.com/categories/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>

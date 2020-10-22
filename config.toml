@@ -81,3 +81,7 @@ name = "Tags"
 url = "/tags/"
 weight = 10
 
+[sitemap]
+  changefreq = "daily"
+  filename = "sitemap.xml"
+  priority = 0.5
